@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/juego/static/css/main.e0f72c92.chunk.css",
+    "main.js": "/juego/static/js/main.eb8d9e5f.chunk.js",
+    "main.js.map": "/juego/static/js/main.eb8d9e5f.chunk.js.map",
+    "runtime-main.js": "/juego/static/js/runtime-main.cafe4e7f.js",
+    "runtime-main.js.map": "/juego/static/js/runtime-main.cafe4e7f.js.map",
+    "static/js/2.c11f4a8e.chunk.js": "/juego/static/js/2.c11f4a8e.chunk.js",
+    "static/js/2.c11f4a8e.chunk.js.map": "/juego/static/js/2.c11f4a8e.chunk.js.map",
+    "index.html": "/juego/index.html",
+    "static/css/main.e0f72c92.chunk.css.map": "/juego/static/css/main.e0f72c92.chunk.css.map",
+    "static/js/2.c11f4a8e.chunk.js.LICENSE.txt": "/juego/static/js/2.c11f4a8e.chunk.js.LICENSE.txt",
+    "static/media/blank.fbcb9179.png": "/juego/static/media/blank.fbcb9179.png",
+    "static/media/i-01.3ba51b13.png": "/juego/static/media/i-01.3ba51b13.png",
+    "static/media/i-02.7804057a.png": "/juego/static/media/i-02.7804057a.png",
+    "static/media/i-03.c3872832.png": "/juego/static/media/i-03.c3872832.png",
+    "static/media/i-04.27d3548c.png": "/juego/static/media/i-04.27d3548c.png",
+    "static/media/i-05.c627816a.png": "/juego/static/media/i-05.c627816a.png",
+    "static/media/i-06.13fa3cbe.png": "/juego/static/media/i-06.13fa3cbe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafe4e7f.js",
+    "static/js/2.c11f4a8e.chunk.js",
+    "static/css/main.e0f72c92.chunk.css",
+    "static/js/main.eb8d9e5f.chunk.js"
+  ]
+}
